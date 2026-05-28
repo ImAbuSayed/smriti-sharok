@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/smriti-sharok/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Smriti Sharok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/smriti-sharok/) |
+| **Get License** | [Commercial Licensing for Smriti Sharok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/smriti-sharok/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার চেনা রূপ
+> প্রেমের আগুনে পুড়ছে হৃদয়, তুমি এতো চুপ
+> শিরায় শিরায় বইছে আমার তোমারই পিপাসা
+> তুমি আমার গোপন রাতের মিষ্টি ভালোবাসা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
