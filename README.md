@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/smriti-sharok/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Smriti Sharok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/smriti-sharok/) |
+| **Get License** | [Get License For Smriti Sharok](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/smriti-sharok/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0a467d11348b2ca4ec2df13c747efb854a70fb32f8f06c53263781d931ada6f4` |
 | **Timestamp** | May 28, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Smriti Sharok
+
+This log tracks the cryptographic history and versioning for the song **Smriti Sharok** (smriti-sharok).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-28T20:12:16.175025 | `v1` | `0a467d11348b2ca4ec2df13c747efb854a70fb32f8f06c53263781d931ada6f4` | `3f849404e5805ffb115b47127302f00b60fc9be736339a8b26a9afa3017c3b07` | `2026-05-28_smriti-sharok-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
